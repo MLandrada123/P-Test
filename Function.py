@@ -3,7 +3,7 @@ def hello(first_name,last_name,age):#inorder for our argument to be accepted we 
     #pass if you do not know what you want to function to do, then print pass and continue
     print("hello "+first_name+" "+last_name)#we can send our function information and it does something about it ie name is an unresolved reference
     print("You are "+str(age)+" years old")#the intergers must be converted to strings so that they can be printed togethe
-    print("have a nice day!")#it can not only be a word but more
+    print("have a nice day!")#it can not only be a word but more........
 
 
 import shutil
